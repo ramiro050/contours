@@ -1,0 +1,12 @@
+[package]
+name = "contours"
+version = "0.1.0"
+authors = ["ramiro050 <ramiroleal050@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nalgebra = "0.21.1"
+quickcheck = "0.9"
+peroxide = "0.23"
