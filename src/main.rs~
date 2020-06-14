@@ -1,7 +1,0 @@
-mod point;
-use point::*;
-
-fn main() {
-    let p: Point = Point::origin();
-    println!("Hello, world!");
-}
